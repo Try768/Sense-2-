@@ -1,7 +1,7 @@
 package nader.tools.timetrainer;
+
 import android.content.res.AssetManager;
 import android.content.res.AssetFileDescriptor;
-
 import android.media.MediaPlayer;
 import android.content.Context;
 import android.net.Uri;
